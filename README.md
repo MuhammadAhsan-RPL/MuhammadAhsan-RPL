@@ -72,13 +72,10 @@ A responsive and modern company profile website focusing on clean UI and usabili
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhsan-RPL&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-RPL&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhsan-RPL&show_icons=true&theme=dark)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-RPL&layout=compact&theme=dark)
 
 --------
 
