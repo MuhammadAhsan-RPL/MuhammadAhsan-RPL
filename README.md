@@ -8,13 +8,12 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student at **IDN Boarding School**
-- 💻 **Software Programmer / Web Developer**
-- 🚀 Love building **clean, functional, and responsive websites**
-- 🔥 Interested in **Frontend, Firebase, and modern web tech**
-- 📫 Email: **muhammadahsantvidn@gmail.com**
+- 🎓 Student at **IDN Boarding School**, majoring in Software Development
+- 💻 **Web Developer** with a strong focus on clean and maintainable code
+- 🚀 Passionate about building **functional, responsive, and user-friendly websites**
+- 🔥 Currently exploring **Frontend Development, Firebase, and modern web technologies**
+- 📫 Reach me at: **siahsantv@gmail.com**
 
----
 
 ## 🛠 Tech Stack
 
@@ -42,34 +41,40 @@
 ---
 
 ## 📂 Featured Projects
-- 🏫 **One School E-Report**  
-  Web-based school reporting system using Firebase  
-  🔗 https://github.com/MuhammadAhsan-RPL/One-School-E-Report
 
-- 🌐 **Portfolio Website**  
-  Personal website showcasing my projects  
-  🔗 https://github.com/MuhammadAhsan-RPL/portfolio-website2
-
-- 🏢 **Company Website**  
-  Simple company profile website  
-  🔗 https://github.com/MuhammadAhsan-RPL/Company-Website
+🚀 **One School E-Report**  
+A real-world web application for managing and submitting school reports with Firebase integration.  
+🛠 HTML • CSS • JavaScript • Firebase  
+🌐 Live Demo → https://one-school-e-report.vercel.app
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAhsan-RPL&show_icons=true&theme=tokyonight" />
-</p>
+✨ **Portfolio Website**  
+A personal portfolio to highlight my projects, skills, and learning journey as a web developer.  
+🛠 HTML • CSS • JavaScript • Tailwind CSS  
+🌐 Live Demo → https://portfolio-website2.vercel.app
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-RPL&layout=compact&theme=tokyonight" />
-</p>
+---
+
+🏢 **Company Website**  
+A responsive and modern company profile website focusing on clean UI and usability.  
+🛠 HTML • CSS • JavaScript  
+🌐 Live Demo → https://company-website.vercel.app
+
+----------
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhsan-RPL&show_icons=true&theme=tokyonight&cache_seconds=86400)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-RPL&layout=compact&theme=tokyonight&cache_seconds=86400)
+
 
 ---
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: https://muhammadahsanalafghani020.my.id/
-- 📷 Instagram: @ahsanidn
+- 🌐 Portfolio: https://portfolio-website2-rouge.vercel.app/
+- 📷 Instagram: @asanalfgn
 - 💼 GitHub: https://github.com/MuhammadAhsan-RPL
 
 ---
