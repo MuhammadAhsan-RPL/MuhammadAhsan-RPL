@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
-<h3 align="center">Student Web Developer from Indonesia 🇮🇩</h3>
+<h3 align="center"> Sofware Developer Junior from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadAhsan-RPL&label=Profile%20Views&color=blue&style=flat" />
@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Student at **IDN Boarding School**, majoring in Software Development
-- 💻 **Web Developer** with a strong focus on clean and maintainable code
+- 💻 Web, Android, and Software Developer with a strong focus on clean, maintainable, and scalable code.
 - 🚀 Passionate about building **functional, responsive, and user-friendly websites**
 - 🔥 Currently exploring **Frontend Development, Firebase, and modern web technologies**
 - 📫 Reach me at: **siahsantv@gmail.com**
@@ -65,15 +65,16 @@ A personal portfolio to highlight my projects, skills, and learning journey as a
 🏢 **Company Website**  
 A responsive and modern company profile website focusing on clean UI and usability.  
 🛠 HTML • CSS • JavaScript
+
 🌐 Live Demo → https://company-website.vercel.app
 
 
 ---
 
 ## 🔗 Connect With Me
-- 🌐 Portfolio: https://portfolio-website2-rouge.vercel.app/
-- 📷 Instagram: https://www.instagram.com/asanalfgn/
-- 💼 GitHub: https://github.com/MuhammadAhsan-RPL
+- 🌐 **Portfolio** → https://portfolio-website2-rouge.vercel.app  
+- 📷 **Instagram** → https://www.instagram.com/asanalfgn  
+- 💼 **GitHub** → https://github.com/MuhammadAhsan-RPL
 
 ---
 
