@@ -68,15 +68,6 @@ A responsive and modern company profile website focusing on clean UI and usabili
 
 🌐 Live Demo → https://company-website.vercel.app
 
-
----
-
-### 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MuhammadAhsan-RPL&show_icons=true&theme=dark)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAhsan-RPL&layout=compact&theme=dark)
-
 --------
 
 ## 🔗 Connect With Me
