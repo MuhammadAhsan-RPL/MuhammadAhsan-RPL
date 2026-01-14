@@ -11,7 +11,7 @@
 - 🎓 Student at **IDN Boarding School**, majoring in Software Development
 - 💻 Web, Android, and Software Developer with a strong focus on clean, maintainable, and scalable code.
 - 🚀 Passionate about building **functional, responsive, and user-friendly websites**
-- 🔥 Currently exploring **Frontend Development, Firebase, and modern web technologies**
+- 🔥 Currently exploring **Frontend & Backend Development, Firebase, and modern web technologies**
 - 📫 Reach me at: **siahsantv@gmail.com**
 
 ## 🛠 Tech Stack
