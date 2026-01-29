@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 - 🎓 Student at **IDN Boarding School**, majoring in Software Development
 - 💻 Software Developer with a strong focus on clean, maintainable, and scalable code.
-- 🚀 Passionate about building **functional, responsive, and user-friendly websites**
+- 🚀 Passionate about building **functional, clean, responsive, and user-friendly websites**
 - 🔥 Currently exploring **Frontend & Backend Development, Firebase, and modern web technologies**
 - 📫 Reach me at: **siahsantv@gmail.com**
 
