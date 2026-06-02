@@ -8,10 +8,13 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Student at **IDN Boarding School**, majoring in Software Development
-- 💻 Software Developer with a strong focus on clean, maintainable, and scalable code.
-- 🚀 Passionate about building **functional, clean, responsive, and user-friendly websites**
-- 🔥 Currently exploring **Frontend & Backend Development, Firebase, and modern web technologies**
+
+- 🎓 Software Development Student at **IDN Boarding School**
+- 💻 Full-Stack Developer focused on building clean, scalable, and maintainable web applications
+- 🚀 Passionate about transforming ideas into real-world digital products
+- 🔥 Experienced with modern web technologies including JavaScript, Laravel, Firebase, MySQL, and Tailwind CSS
+- 📚 Continuously learning software engineering, system design, and modern development practices
+- 🌍 Open to collaboration, freelance projects, and new opportunities
 - 📫 Reach me at: **siahsantv@gmail.com**
 
 ## 🛠 Tech Stack
@@ -62,7 +65,7 @@ A real-world web application for managing and submitting school reports with Fir
 ✨ **Portfolio Website**  
 A personal portfolio to highlight my projects, skills, and learning journey as a web developer.  
 🛠 HTML • CSS • JavaScript • Tailwind CSS  
-🌐 Live Demo → https://portfolio-website2.vercel.app
+🌐 Live Demo → https://ahsanportofolio.vercel.app/
 
 ---
 
