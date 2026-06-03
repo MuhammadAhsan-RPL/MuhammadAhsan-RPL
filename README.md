@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahsan</h1>
-<h3 align="center">  Full-Stack Developer Junior from Indonesia 🇮🇩</h3>
+<h3 align="center">  Full-Stack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MuhammadAhsan-RPL&label=Profile%20Views&color=blue&style=flat" />
