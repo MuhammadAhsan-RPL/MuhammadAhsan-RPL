@@ -56,24 +56,23 @@
 ## 📂 Featured Projects
 
 🚀 **One School E-Report**  
-A real-world web application for managing and submitting school reports with Firebase integration.  
+A web-based academic reporting platform designed to streamline communication between teachers and parents through a structured and efficient reporting system.
 🛠 HTML • CSS • JavaScript • Firebase  
 🌐 Live Demo → https://one-school-e-report.vercel.app
 
 ---
 
-✨ **Portfolio Website**  
-A personal portfolio to highlight my projects, skills, and learning journey as a web developer.  
-🛠 HTML • CSS • JavaScript • Tailwind CSS  
-🌐 Live Demo → https://ahsanportofolio.vercel.app/
+📚 **E-Library Website**  
+A full-stack digital library platform that enables users to browse, manage, and access books through a centralized and user-friendly interface.
+🛠 HTML • Tailwind Css • JavaScript • PHP • Laravel
+🌐 Live Demo → https://github.com/MuhammadAhsan-RPL/E-Book
 
 ---
 
-🏢 **Company Website**  
-A responsive and modern company profile website focusing on clean UI and usability.  
-🛠 HTML • CSS • JavaScript
-
-🌐 Live Demo → https://company-website.vercel.app
+💼 **Payroll Management System Website**  
+A payroll and employee management application built to handle attendance tracking, salary calculations, and administrative reporting in one integrated system. 
+🛠 HTML • Tailwind Css • JavaScript • PHP • Laravel
+🌐 Live Demo → https://github.com/MuhammadAhsan-RPL/Payroll
 
 --------
 
