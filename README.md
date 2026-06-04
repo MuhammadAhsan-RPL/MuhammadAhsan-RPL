@@ -57,21 +57,27 @@
 
 🚀 **One School E-Report**  
 A web-based academic reporting platform designed to streamline communication between teachers and parents through a structured and efficient reporting system.
-🛠 HTML • CSS • JavaScript • Firebase  
+
+🛠 HTML • CSS • JavaScript • Firebase
+
 🌐 Live Demo → https://one-school-e-report.vercel.app
 
 ---
 
 📚 **E-Library Website**  
 A full-stack digital library platform that enables users to browse, manage, and access books through a centralized and user-friendly interface.
+
 🛠 HTML • Tailwind Css • JavaScript • PHP • Laravel
+
 🌐 Live Demo → https://github.com/MuhammadAhsan-RPL/E-Book
 
 ---
 
 💼 **Payroll Management System Website**  
 A payroll and employee management application built to handle attendance tracking, salary calculations, and administrative reporting in one integrated system. 
+
 🛠 HTML • Tailwind Css • JavaScript • PHP • Laravel
+
 🌐 Live Demo → https://github.com/MuhammadAhsan-RPL/Payroll
 
 --------
