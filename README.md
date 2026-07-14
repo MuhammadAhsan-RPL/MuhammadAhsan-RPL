@@ -9,12 +9,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Development Student at **IDN Boarding School**
-- 💻 Full-Stack Developer focused on building clean, scalable, and maintainable web applications
+- 🎓 Software Engineering Student at **IDN Boarding School**
+- 💻 Full-Stack Developer focused on building clean, scalable, and user-friendly web applications
 - 🚀 Passionate about transforming ideas into real-world digital products
-- 🔥 Experienced with modern web technologies including JavaScript, Laravel, Firebase, MySQL, and Tailwind CSS
+- 🔥 Experienced with JavaScript, Laravel, PHP, MySQL, Firebase, Tailwind CSS, and modern web technologies.
 - 📚 Continuously learning software engineering, system design, and modern development practices
-- 🌍 Open to collaboration, freelance projects, and new opportunities
+- 🌍 Open to collaboration, freelance opportunities, and continuous learning.
 - 📫 Reach me at: **siahsantv@gmail.com**
 
 ## 🛠 Tech Stack
